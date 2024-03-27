@@ -4,8 +4,6 @@ Full-stack developer
 
 Bachelor's degree in Computer Science for Management.
 
-<b>My GitHub Stats</b>
-
 <!--
 **Gio-12/Gio-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
