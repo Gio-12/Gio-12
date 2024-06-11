@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <p align="center">
 <!--  <img src="https://j.gifs.com/Kr7rkQ.gif" />-->
