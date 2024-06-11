@@ -15,9 +15,9 @@ Bachelor's degree in Computer Science for Management.</h3>
 - 👾 I’m currently working on **Project for work or Freelence stuff**
 
 - 🧙‍♂️ I’m currently learning **more about gamedev & coding in general**
-
+<!--
 - 🕵🏽‍♂️ I’m looking to collaborate on **anything game **
-
+-->
 - 🙏 I’m looking for help with **improving my day to day code**
 
 - 💬 Ask me about **C#, Java, ecc..**
@@ -25,7 +25,7 @@ Bachelor's degree in Computer Science for Management.</h3>
 - 📫 How to reach me **LeafContactMe@protonmail.com**
 
 - 🧛 Proud enjoyer of **https://draculatheme.com/**
--->
+<!--
 <!--
 **Gio-12/Gio-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
