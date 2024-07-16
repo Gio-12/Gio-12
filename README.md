@@ -3,7 +3,7 @@
 <!--  <img src="https://j.gifs.com/Kr7rkQ.gif" />-->
 </p>
 
-<h1 align="center">Hi, I'm GIo  <img src="https://komarev.com/ghpvc/?username=lifehurtslh&label=Profile%20views&color=8080c0&style=flat-square" alt="lifehurtslh"/></h1>
+<h1 align="center">Hi, I'm Gio  <img src="https://komarev.com/ghpvc/?username=lifehurtslh&label=Profile%20views&color=8080c0&style=flat-square" alt="lifehurtslh"/></h1>
 <h3 align="center">Full-stack developer
 
 Bachelor's degree in Computer Science for Management.</h3>
